@@ -5,7 +5,7 @@ PathShala is a virtual learning app in which students having similar interests c
 PathShala uses an AI based recommendation sysytem to give recommendation to the students for joining groups according to their interests,strength and Weaknesess.  
 
 
-This app is developed under 24 hours for a submission in [Scalar Hackathon]()     
+This app is developed under 24 hours for a submission in [HackItOut Hackathon](https://hackitout.devpost.com/)     
 
 
 ## Tech Stack

@@ -71,7 +71,7 @@ Start the client server
   
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://github.com/Phoenix101135/HackItOut_Pathshala/blob/main/Screenshots/Screenshot%20(17).png)
 ![App Screenshot]()
 ![App Screenshot]()
 ![App Screenshot]()

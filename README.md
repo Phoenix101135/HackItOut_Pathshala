@@ -72,10 +72,10 @@ Start the client server
 ## Screenshots
 
 ![App Screenshot](https://github.com/Phoenix101135/HackItOut_Pathshala/blob/main/Screenshots/Screenshot%20(17).png)
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
+![App Screenshot](https://github.com/Phoenix101135/HackItOut_Pathshala/blob/main/Screenshots/Screenshot%20(18).png)
+![App Screenshot](https://github.com/Phoenix101135/HackItOut_Pathshala/blob/main/Screenshots/Screenshot%20(19).png)
+![App Screenshot](https://github.com/Phoenix101135/HackItOut_Pathshala/blob/main/Screenshots/Screenshot%20(20).png)
+![App Screenshot](https://github.com/Phoenix101135/HackItOut_Pathshala/blob/main/Screenshots/Screenshot%20(21).png)
 ![App Screenshot]()
 ![App Screenshot]()
 ![App Screenshot]()

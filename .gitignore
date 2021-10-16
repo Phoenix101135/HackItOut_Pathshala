@@ -26,7 +26,6 @@ yarn-error.log*
 # database
 /mongo-data/
 
-/client
 /pathshala chat app
 /Screenshots
 /video-chat-master
